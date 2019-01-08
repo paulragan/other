@@ -1,6 +1,3 @@
-#setwd("//Users//paulragan//Dropbox//web_scraping")
-rm(list=ls)
-
 # General-purpose data wrangling
 library(tidyverse)  
 
